@@ -1,0 +1,17 @@
+{
+    "name": "yufu/baidu",
+    "autoload": {
+        "psr-4": {
+            "Yufu\\Baidu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yufu",
+            "email": "228762287@qq.com"
+        }
+    ],
+    "require": {
+        "php-curl-class/php-curl-class": "^9.8"
+    }
+}
