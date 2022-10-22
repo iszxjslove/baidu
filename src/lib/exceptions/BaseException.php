@@ -1,6 +1,6 @@
 <?php
 
-namespace Yufu\Baidu\exceptions;
+namespace Yufu\Baidu\lib\exceptions;
 
 
 class BaseException extends \Exception
