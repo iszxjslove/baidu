@@ -1,6 +1,7 @@
 {
   "name": "yufu/baidu",
   "description": "百度开放平台",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Yufu\\Baidu\\": "src/"

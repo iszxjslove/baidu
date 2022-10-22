@@ -1,4 +1,5 @@
-debug.php
 .idea
 .git
 .DS_Store
+debug.php
+package.json
