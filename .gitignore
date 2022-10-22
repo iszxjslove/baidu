@@ -1,5 +1,6 @@
 .idea
 .git
 .DS_Store
+.env
 debug.php
 package.json
