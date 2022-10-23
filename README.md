@@ -2,7 +2,7 @@
 
 ### 安装
 ```shell
-composer require iszxjslove/baidu
+composer require yufu/baidu
 ```
 
 ### 配置
